@@ -16,7 +16,7 @@ Développeur Web Full-Stack en formation — actuellement en titre pro Développ
 🛠️ Stack: JavaScript PHP React MySQL Git Figma
 
 
-📊 Stats -> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aseroxx&show_icons=true&theme=default)
+📊 Stats -> ![GitHub stats](https://github-stats-extended.vercel.app/api?username=Aseroxx&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=jolly)
 
 Passionné de jeux vidéo et de musique en dehors du code — deux univers qui, à mon sens, se marient plutôt bien.
 
